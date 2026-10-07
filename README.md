@@ -50,6 +50,8 @@ Examples, all on the same 8-bar G-minor progression (`Gm Gm D7 D7 C7 D7 Gm Gm`):
 | `examples/GmBlues.sng` | `SlowBlues.S594.sst` | 76 |
 | `examples/GmCountryTrain.sng` | `CountryTrain Bt.sty` (train beat) | 132 |
 | `examples/GmRootRock.sng` | `RootRock.S117.bcs` | 112 |
+| `examples/GmHardRock.sng` | `HardRock.S512.bcs` | 118 |
+| `examples/GmPowerRock.sng` | `PowerRock.STY` | 128 |
 
 ## Caveats
 

@@ -1,0 +1,234 @@
+<Song resolves-to="SongSP" spName="GmHardRock" spTempo="118">
+  <spVERSION>4</spVERSION>
+  <spComments>Gm | % | D7 | % | C7 | D7 | Gm | %</spComments>
+  <spTags/>
+  <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
+    <spVERSION>2</spVERSION>
+    <spItems>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A" spTs="FOUR_FOUR" spBarIndex="0">
+        <spVERSION>3</spVERSION>
+        <spClientProperties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gm" spOriginalName="Gm">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[0:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="D7" spOriginalName="D7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[2:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="C7" spOriginalName="C7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[4:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="D7" spOriginalName="D7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[5:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gm" spOriginalName="Gm">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[6:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+    </spItems>
+    <spSize>8</spSize>
+  </spChordLeadSheet>
+  <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
+    <spVERSION>2</spVERSION>
+    <spSpts>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="HardRock.S512.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="A" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>HardRock.S512.bcs</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry><string>rpVariationID</string><string>Main A-1</string></entry>
+          <entry><string>rpIntensityID</string><string>0</string></entry>
+          <entry><string>rpSysMarkerID</string><string>solo</string></entry>
+          <entry><string>RpFillID</string><string>always</string></entry>
+          <entry><string>rpTempoID</string><string>100</string></entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="HardRock.S512.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="8" spName="A" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>HardRock.S512.bcs</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry><string>rpVariationID</string><string>Main A-1</string></entry>
+          <entry><string>rpIntensityID</string><string>0</string></entry>
+          <entry><string>rpSysMarkerID</string><string>solo</string></entry>
+          <entry><string>RpFillID</string><string>always</string></entry>
+          <entry><string>rpTempoID</string><string>100</string></entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="HardRock.S512.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="16" spName="A" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>HardRock.S512.bcs</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry><string>rpVariationID</string><string>Main B-1</string></entry>
+          <entry><string>rpIntensityID</string><string>1</string></entry>
+          <entry><string>rpSysMarkerID</string><string>solo</string></entry>
+          <entry><string>RpFillID</string><string>always</string></entry>
+          <entry><string>rpTempoID</string><string>100</string></entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="HardRock.S512.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="24" spName="A" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>HardRock.S512.bcs</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry><string>rpVariationID</string><string>Main B-1</string></entry>
+          <entry><string>rpIntensityID</string><string>1</string></entry>
+          <entry><string>rpSysMarkerID</string><string>solo</string></entry>
+          <entry><string>RpFillID</string><string>always</string></entry>
+          <entry><string>rpTempoID</string><string>100</string></entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="HardRock.S512.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="32" spName="A" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>HardRock.S512.bcs</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry><string>rpVariationID</string><string>Main C-1</string></entry>
+          <entry><string>rpIntensityID</string><string>2</string></entry>
+          <entry><string>rpSysMarkerID</string><string>solo</string></entry>
+          <entry><string>RpFillID</string><string>always</string></entry>
+          <entry><string>rpTempoID</string><string>100</string></entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="HardRock.S512.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="40" spName="A" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>HardRock.S512.bcs</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry><string>rpVariationID</string><string>Main C-1</string></entry>
+          <entry><string>rpIntensityID</string><string>2</string></entry>
+          <entry><string>rpSysMarkerID</string><string>solo</string></entry>
+          <entry><string>RpFillID</string><string>always</string></entry>
+          <entry><string>rpTempoID</string><string>100</string></entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="HardRock.S512.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="48" spName="A" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>HardRock.S512.bcs</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry><string>rpVariationID</string><string>Main D-1</string></entry>
+          <entry><string>rpIntensityID</string><string>3</string></entry>
+          <entry><string>rpSysMarkerID</string><string>solo</string></entry>
+          <entry><string>RpFillID</string><string>always</string></entry>
+          <entry><string>rpTempoID</string><string>100</string></entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="HardRock.S512.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="56" spName="A" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>HardRock.S512.bcs</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry><string>rpVariationID</string><string>Main D-1</string></entry>
+          <entry><string>rpIntensityID</string><string>3</string></entry>
+          <entry><string>rpSysMarkerID</string><string>solo</string></entry>
+          <entry><string>RpFillID</string><string>always</string></entry>
+          <entry><string>rpTempoID</string><string>100</string></entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+    </spSpts>
+    <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
+    <spKeepUpdated>true</spKeepUpdated>
+  </spSongStructure>
+  <spMapUserPhrases/>
+  <spClientPropertiesV3>
+    <properties/>
+    <owner class="Song" reference="../.."/>
+  </spClientPropertiesV3>
+</Song>
