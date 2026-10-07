@@ -43,7 +43,13 @@ Options:
 
 Each chorus becomes its own song part. The style variation climbs `Main A` → `Main D` every two choruses, with a fill at the end of each chorus so you always hear where the form restarts.
 
-`examples/GmBlues.sng` is an 8-bar G-minor blues (`Gm Gm D7 D7 C7 D7 Gm Gm`) at 76 BPM.
+Examples, all on the same 8-bar G-minor progression (`Gm Gm D7 D7 C7 D7 Gm Gm`):
+
+| File | Style | BPM |
+|---|---|---|
+| `examples/GmBlues.sng` | `SlowBlues.S594.sst` | 76 |
+| `examples/GmCountryTrain.sng` | `CountryTrain Bt.sty` (train beat) | 132 |
+| `examples/GmRootRock.sng` | `RootRock.S117.bcs` | 112 |
 
 ## Caveats
 
